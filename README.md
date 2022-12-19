@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bharath2805
 - 👀 I’m interested in ...WEB DEVELOPMENT,DATA SCIENCE
-- 🌱 I’m currently learning .FULL STACK DEVELOPMENT,DATA SCIENCE
+- 🌱 I’m currently learning .FULL STACK WEB DEVELOPMENT,DATA SCIENCE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..bharathkumarreddy0000@gmail.com.
 
